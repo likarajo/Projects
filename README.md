@@ -1,4 +1,4 @@
-# [Projects](https://likarajo.github.io/Projects)
+# [My Projects](https://likarajo.github.io/Projects)
 Website for my portfolio of projects and articles created using Blogdown, Hugo, and GitHub pages.
 
 ## Install R and RStudio
