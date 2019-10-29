@@ -1,0 +1,46 @@
+<div class="col-xs-12 col-sm-8 col-md-9 content-column">
+    {{ partial "mobile_nav_toggle.html" . }}
+    <div class="grid">
+        <div class="row">
+          {{ range .Data.Pages }}
+              <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
+                  <div class="box-masonry">
+                      {{ if eq .Params.external "" }}
+                      {{ .Scratch.Set "link" .Params.github }}
+                      {{ else }}
+                      {{ .Scratch.Set "link" .Params.external }}
+                      {{ end }}
+                      {{ if and (isset .Params "image") .Params.image }}
+                        <a href="{{ .Scratch.Get "link" }}" target="_blank" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
+                            <img src="{{.Params.image | absURL}}" alt="" class="img-responsive">
+                        </a>
+                      {{ end }}
+                      {{ if and (isset .Params "cover") .Params.cover }}
+                        <a href="{{ .Scratch.Get "link" }}" target="_blank" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
+                            <img src="{{.Params.cover | absURL}}" alt="" class="img-responsive">
+                        </a>
+                      {{ end }}
+                      <div class="box-masonry-text">
+                        <h4>{{ .Title }}</h4>
+                        <div class="box-masonry-description">
+                            <p>
+                                {{ if .Description }}
+                                  {{ .Description }}
+                                {{ else }}
+                                  {{ .Summary }}
+                                {{ end }}
+                            </p>
+                            <a href="{{ .Scratch.Get "link" }}" target="_blank">
+                                <i class="fa fa-external-link-square"> more info</i>
+                            </a>
+                        </div>
+                      </div>
+                  </div>
+              </div>
+          {{ end }}
+        </div>
+    </div>
+</div>
+<div class="footer_display">
+    {{ partial "footer.html" . }}    
+</div>

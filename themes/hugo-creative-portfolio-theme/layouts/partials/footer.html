@@ -1,0 +1,12 @@
+<div class="copyright">
+  <p class="credit">
+    {{ with .Site.Params.copyright }}
+      {{ . | safeHTML }}
+    {{ end }}
+    {{ with .Site.Params.social.github }}
+      <a href="{{ . }}" data-animate-hover="pulse" class="external">
+        <i class="fa fa-github"></i>
+      </a>
+    {{end}}
+  </p>
+</div>

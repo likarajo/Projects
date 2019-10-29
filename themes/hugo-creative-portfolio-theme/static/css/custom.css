@@ -1,0 +1,9 @@
+/* your styles go here */
+body{
+  background-image: linear-gradient(to left, #015876, #015876, #015876, #015876, #015876, #C3EFFE, #C3EFFE);
+}
+
+.footer_display{
+  text-align: center;
+  color: #fff;
+}

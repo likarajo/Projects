@@ -1,0 +1,17 @@
+<div id="sidebar" class="col-xs-6 col-sm-4 col-md-3 sidebar-offcanvas">
+  <div class="sidebar-content">
+    <h1 class="sidebar-heading">{{ .Site.Params.Owner }}</h1>
+    <h5>{{ .Site.Title }}</h5>
+    {{ range .Site.Params.sidebarAbout }}
+      <p class="sidebar-p">{{ . | safeHTML }}</p>
+    {{ end }}
+    <ul class="sidebar-menu">
+      {{ range .Site.Params.navlinks }}
+        <li>
+          <i class="{{ .icon }}"></i> <a href="{{ absURL .url }}">{{ .name }}</a>
+        </li>
+      {{ end }}
+    </ul>
+    {{ partial "social_buttons_in_sidebar.html" . }}
+  </div>
+</div>

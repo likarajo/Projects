@@ -1,0 +1,71 @@
+baseurl = "https://likarajo.github.io/Projects/"
+title = "Portfolio"
+theme = "hugo-creative-portfolio-theme"
+languageCode = "en-us"
+
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+enableEmoji = true
+
+# allow search engines to search/crawl everything
+enableRobotsTXT = true
+
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = "UA-105786857-2"
+
+#preserveTaxonomyNames = true
+#[taxonomies]
+#  category = "categories"
+#  tag = "tech"
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[params]
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "default"
+  author = "Rajarshi Chattopadhyay"
+  description = "Portfolio website of Rajarshi Chattopadhyay"
+  owner = "Rajarshi Chattopadhyay"
+  copyright = "&copy;2019 Rajarshi Chattopadhyay"
+  # sidebarAbout = [
+    # "I am a software engineer and data enthusiast with 4 years of experience.",
+    # "I like to build something useful using big data and applied machine learning.",
+    # "Originally from India, currently based in Dallas, TX."
+  # ]
+  # Contact page
+     # Since this template is static, the contact form uses www.formspree.io as a
+     # proxy. The form makes a POST request to their servers to send the actual
+     # email. Visitors can send up to a 1000 emails each month for free.
+     #
+     # What you need to do for the setup?
+     #
+     # - set your email address under 'email' below
+     # - upload the generated site to your server
+     # - send a dummy email yourself to confirm your account
+     # - click the confirm link in the email from www.formspree.io
+     # - you're done. Happy mailing!
+  email = "likarajo@gmail.com"
+
+    # Optional Matomo analytics (formerly piwik)
+      # [params.analytics.matomo]
+      #  URL = "https://stats.example.com"
+      #  ID = "42"
+      #  # Track all subdomains with "*.example.com" (Optional)
+      #  domain = "www.example.com"
+      #  # Optional integrity check hash
+      #  hash = ""
+
+  # Nav links in the side bar
+  [[params.navlinks]]
+  name = "Home"
+  url = "portfolio/"
+  home = true
+  icon = "fa fa-home"
+
+  [params.social]
+  email         = "likarajo@gmail.com"
+  twitter       = "https://twitter.com/likarajo"
+  linkedin      = "https://www.linkedin.com/in/likarajo"
+  github        = "https://github.com/likarajo"
+  website       = "https://likarajo.github.io"
