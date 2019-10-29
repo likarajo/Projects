@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Portfolio</title>
+    <link>https://likarajo.github.io/Projects/portfolio/</link>
+    <description>Recent content in Portfolios on Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://likarajo.github.io/Projects/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>911 calls</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/911calls/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/911calls/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Data Science and visualization on 911 calls data&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>[BLOG] Big Data in Agriculture</title>
+      <link>https://likarajo.github.io/Projects/portfolio/blog/agriculture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/blog/agriculture/</guid>
+      <description>My thoughts on use of big data in agriculture in the modern modern world.</description>
+    </item>
+    
+    <item>
+      <title>[BLOG] CI CD</title>
+      <link>https://likarajo.github.io/Projects/portfolio/blog/cicd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/blog/cicd/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/pulse/devops-continuous-integration-deployment-using-chattopadhyay/&#34;&gt;LinkedIn article&lt;/a&gt;
+&lt;br&gt;
+This is a guide to learn the use of Jenkins for Continuous Integration
+and Continuous Deployment of projects.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>[BLOG] Containerization</title>
+      <link>https://likarajo.github.io/Projects/portfolio/blog/containerization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/blog/containerization/</guid>
+      <description>LinkedIn article This is a beginners guide for Creating and Publishing Docker Image for a Python app.</description>
+    </item>
+    
+    <item>
+      <title>[BLOG] Functional and Object Oriented Programming</title>
+      <link>https://likarajo.github.io/Projects/portfolio/blog/fp-oop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/blog/fp-oop/</guid>
+      <description>An article based on my learning outcomes from attending and informational session on Functional Programming.</description>
+    </item>
+    
+    <item>
+      <title>[BLOG] RISC Processor using Harvard Architecture</title>
+      <link>https://likarajo.github.io/Projects/portfolio/blog/risc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/blog/risc/</guid>
+      <description>Overview of designing and developing a Reduced Instruction Set Computing microprocessor, using Harvard Architecture.</description>
+    </item>
+    
+    <item>
+      <title>[BLOG] Summer 2019 Internship Experience</title>
+      <link>https://likarajo.github.io/Projects/portfolio/blog/summer2019internship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/blog/summer2019internship/</guid>
+      <description>An article based on my learning outcomes and experience during my Summer 2019 internship at Copart.</description>
+    </item>
+    
+    <item>
+      <title>Airport Rank</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/airportrank/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/airportrank/</guid>
+      <description>Rank top airports based on self-implemented Page Rank values computed using their connections data from Bureau of Transportation Statistics.</description>
+    </item>
+    
+    <item>
+      <title>Breast Cancer Diagnosis</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/breastcancerdiagnosis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/breastcancerdiagnosis/</guid>
+      <description>Diagnosing and predicting Breast Cancer with Support Vector Machine using Wisconsin Breast Cancer diagnostic data set.</description>
+    </item>
+    
+    <item>
+      <title>Brick Breaker</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/brickbreaker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/brickbreaker/</guid>
+      <description>Brick Breaker game</description>
+    </item>
+    
+    <item>
+      <title>Car Analysis</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/caranalysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/caranalysis/</guid>
+      <description> Classify cars as automatic or manual. Predict mileage of cars.  </description>
+    </item>
+    
+    <item>
+      <title>Clock</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/clock/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/clock/</guid>
+      <description>An online clock that can be customized; can be reused in any web page.</description>
+    </item>
+    
+    <item>
+      <title>Crimes Clustering</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/crimesclustering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/crimesclustering/</guid>
+      <description>Finding the crimes cluster in a region using Kmeans clustering as silhouette.</description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/cv/</guid>
+      <description>My Online CV</description>
+    </item>
+    
+    <item>
+      <title>Decison Tree ID3</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/decisiontreeid3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/decisiontreeid3/</guid>
+      <description>Self-implementation of Decision Tree ID3 algorithm and comparing it with Scikit Learn implementation using MONK&amp;rsquo;s Problem and Tic-Tac-Toe Endgame Data Set.</description>
+    </item>
+    
+    <item>
+      <title>DevOps CI CD</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/devopscicd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/devopscicd/</guid>
+      <description>Continuous Integration and continuous deployment using Jenkins
+Blog</description>
+    </item>
+    
+    <item>
+      <title>Dimensionality Reduction</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/dimensionalityreduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/dimensionalityreduction/</guid>
+      <description>Support Vector Machine (SVM) Classifier model with Stochastic Gradient Decent (SGD) using Principal Component Analysis and Spectral Clustering.</description>
+    </item>
+    
+    <item>
+      <title>Earthquakes</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/earthquakes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/earthquakes/</guid>
+      <description>Fetch data from USGS and plot on a map the areas across the world that had a 4.5+ earthquake in the last 24 hours.</description>
+    </item>
+    
+    <item>
+      <title>Ensemble Methods</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/ensemble/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/ensemble/</guid>
+      <description>Self-implementation of Ensemble methods - Bagging and Boosting - on Decision Tree ID3 algorithm and comparing it with Scikit Learn implementation using Mushroom Data Set.</description>
+    </item>
+    
+    <item>
+      <title>FaceRecognition</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/facerecognition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/facerecognition/</guid>
+      <description>Image recording, preparing image data, and training with pre-built Haar-cascade classifier to recognize face.</description>
+    </item>
+    
+    <item>
+      <title>High Temperature Anomaly</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/hightemp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/hightemp/</guid>
+      <description>Fetch data from NASA and plot on a map the areas in California that are prone to having active fires due to a high temperature anomaly.</description>
+    </item>
+    
+    <item>
+      <title>House Price Prediction</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/housepriceprediction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/housepriceprediction/</guid>
+      <description>&lt;p&gt;A Machine Learning model built using Kaggle data which can be used to
+predict the final price of a house based on the features.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Kinship</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/kinship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/kinship/</guid>
+      <description>&lt;p&gt;‘Kinship’ is a simple tool that finds out what are the related words (kins) to a particular word that twitter users have twitted.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Movie Search</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/moviesearch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/moviesearch/</guid>
+      <description>Movies Search based on self-implemented TF-IDF values and Cosine-Similarity computed using movie plot summaries data taken from CMU Movie Summary Corpus.</description>
+    </item>
+    
+    <item>
+      <title>MQ Reporting</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/mqreporting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/mqreporting/</guid>
+      <description>Developed a Java UI for daily queue status report generation for the core application on a single click eliminating manual effort.</description>
+    </item>
+    
+    <item>
+      <title>MQ Stats</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/mqstats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/mqstats/</guid>
+      <description>Automated daily queue status monitoring for the core application eliminating manual effort.</description>
+    </item>
+    
+    <item>
+      <title>News Topic Modelling</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/newstopic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/newstopic/</guid>
+      <description>News Topic modelling with Latent Dirichlet Allocation (LDA) by scraping news articles from CNN News website</description>
+    </item>
+    
+    <item>
+      <title>Personal Website V1</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/personalwebsitev1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/personalwebsitev1/</guid>
+      <description>My first portfolio website.</description>
+    </item>
+    
+    <item>
+      <title>Personal Website V2</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/personalwebsitev2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/personalwebsitev2/</guid>
+      <description>Second iteration of my personal website.</description>
+    </item>
+    
+    <item>
+      <title>Personal Website V3</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/personalwebsitev3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/personalwebsitev3/</guid>
+      <description>Third iteration of my personal website built with Gatsby and hosted with Netlify on GitHub Pages.</description>
+    </item>
+    
+    <item>
+      <title>Recommender System</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/recommender/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/recommender/</guid>
+      <description>&lt;p&gt;Creating a recommender systems using Collaborative filtering on ratings data with Alternating least squares (ALS) algorithm&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Rock Paper Scissor game</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/rockpaperscissor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/rockpaperscissor/</guid>
+      <description>The rock paper scissor game (1 player)</description>
+    </item>
+    
+    <item>
+      <title>Sentiment of a sentence</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/sentimentofsentence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/sentimentofsentence/</guid>
+      <description>&lt;p&gt;Used dataset of labelled sentences to learn a model and use the same to analyze the sentiment of new sentences.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sentiment on US Airline</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/sentimentonusairline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/sentimentonusairline/</guid>
+      <description>Analyzing sentiment on US Airlines with Logistic Regression, Random Forest classifier, Naive-Bayes classifier using tweets data on US Airline.</description>
+    </item>
+    
+    <item>
+      <title>Simulated Operating System</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/simos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/simos/</guid>
+      <description>Simulate a computer system and implement a simple Operating System that manages the resources of the computer system.</description>
+    </item>
+    
+    <item>
+      <title>Simulated Operating System with Demand Paging</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/simosdemandpaging/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/simosdemandpaging/</guid>
+      <description>Simulate a computer system and implement a simple Operating System with simulated virtual memory demand paging scheme.</description>
+    </item>
+    
+    <item>
+      <title>Social Network Analysis</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/socialnetworkanalysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/socialnetworkanalysis/</guid>
+      <description>&lt;p&gt;Created a social network of users liking each other&amp;rsquo;s posts in a graph structure.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tetris</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/tetris/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/tetris/</guid>
+      <description>A tetris UI game built as part of Computer Graphics curriculum (CS 6366)</description>
+    </item>
+    
+    <item>
+      <title>Titanic Survival</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/titanicsurvival/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/titanicsurvival/</guid>
+      <description>Titanic survival prediction with Decision Tree classifier.
+Ref: Kaggle Competetion</description>
+    </item>
+    
+    <item>
+      <title>Tweet Sentiment</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/tweetsentiment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/tweetsentiment/</guid>
+      <description>&lt;p&gt;A Spark Streaming application for live tweets sentiment analysis, created using Scala to continuously read data from Twitter about a topic.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

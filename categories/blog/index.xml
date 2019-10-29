@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Portfolio</title>
+    <link>https://likarajo.github.io/Projects/categories/blog/</link>
+    <description>Recent content in Blog on Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://likarajo.github.io/Projects/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[BLOG] Big Data in Agriculture</title>
+      <link>https://likarajo.github.io/Projects/portfolio/blog/agriculture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/blog/agriculture/</guid>
+      <description>My thoughts on use of big data in agriculture in the modern modern world.</description>
+    </item>
+    
+    <item>
+      <title>[BLOG] CI CD</title>
+      <link>https://likarajo.github.io/Projects/portfolio/blog/cicd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/blog/cicd/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/pulse/devops-continuous-integration-deployment-using-chattopadhyay/&#34;&gt;LinkedIn article&lt;/a&gt;
+&lt;br&gt;
+This is a guide to learn the use of Jenkins for Continuous Integration
+and Continuous Deployment of projects.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>[BLOG] Containerization</title>
+      <link>https://likarajo.github.io/Projects/portfolio/blog/containerization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/blog/containerization/</guid>
+      <description>LinkedIn article This is a beginners guide for Creating and Publishing Docker Image for a Python app.</description>
+    </item>
+    
+    <item>
+      <title>[BLOG] Functional and Object Oriented Programming</title>
+      <link>https://likarajo.github.io/Projects/portfolio/blog/fp-oop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/blog/fp-oop/</guid>
+      <description>An article based on my learning outcomes from attending and informational session on Functional Programming.</description>
+    </item>
+    
+    <item>
+      <title>[BLOG] RISC Processor using Harvard Architecture</title>
+      <link>https://likarajo.github.io/Projects/portfolio/blog/risc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/blog/risc/</guid>
+      <description>Overview of designing and developing a Reduced Instruction Set Computing microprocessor, using Harvard Architecture.</description>
+    </item>
+    
+    <item>
+      <title>[BLOG] Summer 2019 Internship Experience</title>
+      <link>https://likarajo.github.io/Projects/portfolio/blog/summer2019internship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/blog/summer2019internship/</guid>
+      <description>An article based on my learning outcomes and experience during my Summer 2019 internship at Copart.</description>
+    </item>
+    
+  </channel>
+</rss>
