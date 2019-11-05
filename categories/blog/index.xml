@@ -11,12 +11,12 @@
     
     
     <item>
-      <title>[BLOG] Big Data in Agriculture</title>
-      <link>https://likarajo.github.io/Projects/portfolio/blog/agriculture/</link>
+      <title>[BLOG] Containerization</title>
+      <link>https://likarajo.github.io/Projects/portfolio/blog/containerization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://likarajo.github.io/Projects/portfolio/blog/agriculture/</guid>
-      <description>My thoughts on use of big data in agriculture in the modern modern world.</description>
+      <guid>https://likarajo.github.io/Projects/portfolio/blog/containerization/</guid>
+      <description>LinkedIn article This is a beginners guide for Creating and Publishing Docker Image for a Python app.</description>
     </item>
     
     <item>
@@ -32,12 +32,21 @@ and Continuous Deployment of projects.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>[BLOG] Containerization</title>
-      <link>https://likarajo.github.io/Projects/portfolio/blog/containerization/</link>
+      <title>Python UI game</title>
+      <link>https://likarajo.github.io/Projects/portfolio/blog/pythonuigame/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://likarajo.github.io/Projects/portfolio/blog/containerization/</guid>
-      <description>LinkedIn article This is a beginners guide for Creating and Publishing Docker Image for a Python app.</description>
+      <guid>https://likarajo.github.io/Projects/portfolio/blog/pythonuigame/</guid>
+      <description>Beginner&amp;rsquo;s guide to UI development using basics of tkinter</description>
+    </item>
+    
+    <item>
+      <title>[BLOG] Summer 2019 Internship Experience</title>
+      <link>https://likarajo.github.io/Projects/portfolio/blog/summer2019internship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/blog/summer2019internship/</guid>
+      <description>An article based on my learning outcomes and experience during my Summer 2019 internship at Copart.</description>
     </item>
     
     <item>
@@ -59,12 +68,12 @@ and Continuous Deployment of projects.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>[BLOG] Summer 2019 Internship Experience</title>
-      <link>https://likarajo.github.io/Projects/portfolio/blog/summer2019internship/</link>
+      <title>[BLOG] Big Data in Agriculture</title>
+      <link>https://likarajo.github.io/Projects/portfolio/blog/agriculture/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://likarajo.github.io/Projects/portfolio/blog/summer2019internship/</guid>
-      <description>An article based on my learning outcomes and experience during my Summer 2019 internship at Copart.</description>
+      <guid>https://likarajo.github.io/Projects/portfolio/blog/agriculture/</guid>
+      <description>My thoughts on use of big data in agriculture in the modern modern world.</description>
     </item>
     
   </channel>
