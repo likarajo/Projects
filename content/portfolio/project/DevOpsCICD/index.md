@@ -1,7 +1,7 @@
 ---
-date: '512'
+weight: '701'
 title: 'DevOps CI CD'
-image: ''
+image: 'img/portfolio/cicd.png'
 github: 'https://github.com/likarajo/devops-helloworld'
 external: 'https://likarajo.github.io/devops-helloworld/'
 tech:

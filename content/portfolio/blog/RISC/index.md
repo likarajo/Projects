@@ -1,7 +1,7 @@
 ---
-date: '105'
+weight: '804'
 title: '[BLOG] RISC Processor using Harvard Architecture'
-image: ''
+image: 'img/portfolio/risc'
 github: ''
 external: 'https://likarajoblogs.wordpress.com/2018/06/08/risc-using-harvard/'
 tech:

@@ -1,7 +1,7 @@
 ---
-date: '513'
+weight: '901'
 title: '[BLOG] Big Data in Agriculture'
-image: ''
+image: 'img/portfolio/agriculture.jpg'
 github: ''
 external: 'https://likarajoblogs.wordpress.com/2018/06/04/bigdatainagriculture/'
 tech:

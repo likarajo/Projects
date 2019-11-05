@@ -1,7 +1,7 @@
 ---
-date: '802'
+weight: '302'
 title: 'Airport Rank'
-image: ''
+image: 'img/portfolio/pagerank.jpg'
 github: 'https://github.com/likarajo/AirportRank'
 external: ''
 tech:

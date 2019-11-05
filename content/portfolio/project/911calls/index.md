@@ -1,7 +1,7 @@
 ---
-date: '1201'
+weight: '702'
 title: '911 calls'
-image: ''
+image: 'img/portfolio/ds.png'
 github: 'https://github.com/likarajo/ds911calls'
 external: ''
 tech:

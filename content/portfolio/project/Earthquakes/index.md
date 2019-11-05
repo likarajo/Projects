@@ -1,5 +1,5 @@
 ---
-date: '806'
+weight: '507'
 title: 'Earthquakes'
 image: 'img/portfolio/earthquakes.png'
 github: 'https://github.com/likarajo/earthquakes'

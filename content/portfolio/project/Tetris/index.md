@@ -1,7 +1,7 @@
 ---
-date: '600'
+weight: '608'
 title: 'Tetris'
-image: ''
+image: 'img/portfolio/tetris.jpg'
 github: 'https://github.com/likarajo/tetris'
 external: ''
 tech:

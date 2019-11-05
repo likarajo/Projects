@@ -1,7 +1,7 @@
 ---
-date: '910'
+weight: '803'
 title: '[BLOG] Summer 2019 Internship Experience'
-image: ''
+image: 'img/portfolio/copart.jpg'
 github: ''
 external: 'https://www.linkedin.com/pulse/software-engineer-internship-experience-summer-2019-chattopadhyay/'
 tech:

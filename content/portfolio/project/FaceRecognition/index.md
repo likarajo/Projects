@@ -1,5 +1,5 @@
 ---
-date: '1100'
+weight: '103'
 title: 'FaceRecognition'
 cover: 'img/portfolio/face.png'
 github: 'https://github.com/likarajo/https://github.com/likarajo/face_recognition'

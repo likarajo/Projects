@@ -1,7 +1,7 @@
 ---
-date: '803'
+weight: '301'
 title: 'Movie Search'
-image: ''
+image: 'img/portfolio/tfidf.png'
 github: 'https://github.com/likarajo/MovieSearch'
 external: ''
 tech:

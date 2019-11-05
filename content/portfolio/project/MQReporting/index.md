@@ -1,7 +1,7 @@
 ---
-date: '100'
+weight: '704'
 title: 'MQ Reporting'
-image: ''
+image: 'img/portfolio/mq.png'
 github: 'https://github.com/likarajo/mqreporting'
 external: 'https://likarajo.github.io/mqreporting'
 tech:

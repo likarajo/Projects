@@ -1,5 +1,5 @@
 ---
-date: '807'
+weight: '104'
 title: 'Chatbot'
 image: 'img/portfolio/chatbot.png'
 github: 'https://github.com/likarajo/chatbot'

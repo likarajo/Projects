@@ -1,7 +1,7 @@
 ---
-date: '201'
+weight: '610'
 title: 'Simulated Operating System'
-image: ''
+image: 'img/portfolio/os.png'
 github: 'https://github.com/likarajo/simOS'
 external: 'https://likarajo.github.io/simOS/'
 tech:

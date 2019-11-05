@@ -1,7 +1,7 @@
 ---
-date: '704'
+weight: '503'
 title: 'Crimes Clustering'
-image: ''
+image: 'img/portfolio/clustering.png'
 github: 'https://github.com/likarajo/crimes'
 external: ''
 tech:

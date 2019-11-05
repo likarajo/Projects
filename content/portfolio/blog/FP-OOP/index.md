@@ -1,7 +1,7 @@
 ---
-date: '510'
+weight: '804'
 title: '[BLOG] Functional and Object Oriented Programming'
-image: ''
+image: 'img/portfolio/fp.png'
 github: ''
 external: 'https://www.linkedin.com/pulse/functional-vs-object-oriented-programming-rajarshi-chattopadhyay/'
 tech:

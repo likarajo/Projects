@@ -1,7 +1,7 @@
 ---
-date: '601'
+weight: '502'
 title: 'Social Network Analysis'
-image: ''
+image: 'img/portfolio/social_network.png'
 github: 'https://github.com/likarajo/social_network'
 external: ''
 tech:

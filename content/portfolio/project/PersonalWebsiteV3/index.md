@@ -1,5 +1,5 @@
 ---
-date: '503'
+weight: '203'
 title: 'Personal Website V3'
 image: 'img/portfolio/website_v3.png'
 github: 'https://github.com/likarajo/website'

@@ -1,7 +1,7 @@
 ---
-date: '511'
+weight: '706'
 title: '[BLOG] CI CD'
-image: ''
+image: 'img/portfolio/cicd.png'
 github: 'https://github.com/likarajo/devops-helloworld'
 external: 'https://likarajoblogs.wordpress.com/2018/12/29/devops-continuous-integration-and-continuous-deployment/'
 tech:

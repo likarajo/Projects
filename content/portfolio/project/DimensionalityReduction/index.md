@@ -1,7 +1,7 @@
 ---
-date: '703'
+weight: '601'
 title: 'Dimensionality Reduction'
-image: ''
+image: 'img/portfolio/pca.png'
 github: 'https://github.com/likarajo/dimensionality_reduction'
 external: ''
 tech:

@@ -1,5 +1,5 @@
 ---
-date: '1101'
+weight: '604'
 title: 'Breast Cancer Diagnosis'
 cover: 'img/portfolio/bcancer.png'
 github: 'https://github.com/likarajo/breastcancer_diagnosis'

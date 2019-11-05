@@ -3,11 +3,139 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://likarajo.github.io/Projects/portfolio/project/twittersentiments/</loc>
+  </url>
+  
+  <url>
+    <loc>https://likarajo.github.io/Projects/portfolio/project/housepriceprediction/</loc>
+  </url>
+  
+  <url>
+    <loc>https://likarajo.github.io/Projects/portfolio/project/facerecognition/</loc>
+  </url>
+  
+  <url>
+    <loc>https://likarajo.github.io/Projects/portfolio/project/chatbot/</loc>
+  </url>
+  
+  <url>
+    <loc>https://likarajo.github.io/Projects/portfolio/project/cv/</loc>
+  </url>
+  
+  <url>
+    <loc>https://likarajo.github.io/Projects/portfolio/project/kinship/</loc>
+  </url>
+  
+  <url>
+    <loc>https://likarajo.github.io/Projects/portfolio/project/personalwebsitev3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://likarajo.github.io/Projects/portfolio/project/moviesearch/</loc>
+  </url>
+  
+  <url>
+    <loc>https://likarajo.github.io/Projects/portfolio/project/airportrank/</loc>
+  </url>
+  
+  <url>
+    <loc>https://likarajo.github.io/Projects/portfolio/project/newstopic/</loc>
+  </url>
+  
+  <url>
+    <loc>https://likarajo.github.io/Projects/portfolio/project/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://likarajo.github.io/Projects/portfolio/project/socialnetworkanalysis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://likarajo.github.io/Projects/portfolio/project/crimesclustering/</loc>
+  </url>
+  
+  <url>
+    <loc>https://likarajo.github.io/Projects/portfolio/project/caranalysis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://likarajo.github.io/Projects/portfolio/project/sentimentonusairline/</loc>
+  </url>
+  
+  <url>
+    <loc>https://likarajo.github.io/Projects/portfolio/project/sentimentofsentence/</loc>
+  </url>
+  
+  <url>
+    <loc>https://likarajo.github.io/Projects/portfolio/project/earthquakes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://likarajo.github.io/Projects/portfolio/project/hightemp/</loc>
+  </url>
+  
+  <url>
+    <loc>https://likarajo.github.io/Projects/portfolio/project/recommender/</loc>
+  </url>
+  
+  <url>
+    <loc>https://likarajo.github.io/Projects/portfolio/project/dimensionalityreduction/</loc>
+  </url>
+  
+  <url>
+    <loc>https://likarajo.github.io/Projects/portfolio/project/decisiontreeensemble/</loc>
+  </url>
+  
+  <url>
+    <loc>https://likarajo.github.io/Projects/portfolio/project/decisiontreeid3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://likarajo.github.io/Projects/portfolio/project/breastcancerdiagnosis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://likarajo.github.io/Projects/portfolio/project/titanicsurvival/</loc>
+  </url>
+  
+  <url>
+    <loc>https://likarajo.github.io/Projects/portfolio/project/personalwebsitev2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://likarajo.github.io/Projects/portfolio/project/personalwebsitev1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://likarajo.github.io/Projects/portfolio/project/tetris/</loc>
+  </url>
+  
+  <url>
+    <loc>https://likarajo.github.io/Projects/portfolio/project/simosdemandpaging/</loc>
+  </url>
+  
+  <url>
+    <loc>https://likarajo.github.io/Projects/portfolio/project/simos/</loc>
+  </url>
+  
+  <url>
+    <loc>https://likarajo.github.io/Projects/portfolio/project/devopscicd/</loc>
+  </url>
+  
+  <url>
     <loc>https://likarajo.github.io/Projects/portfolio/project/911calls/</loc>
   </url>
   
   <url>
-    <loc>https://likarajo.github.io/Projects/portfolio/blog/agriculture/</loc>
+    <loc>https://likarajo.github.io/Projects/portfolio/project/mqstats/</loc>
+  </url>
+  
+  <url>
+    <loc>https://likarajo.github.io/Projects/portfolio/project/mqreporting/</loc>
+  </url>
+  
+  <url>
+    <loc>https://likarajo.github.io/Projects/portfolio/blog/containerization/</loc>
   </url>
   
   <url>
@@ -15,7 +143,15 @@
   </url>
   
   <url>
-    <loc>https://likarajo.github.io/Projects/portfolio/blog/containerization/</loc>
+    <loc>https://likarajo.github.io/Projects/portfolio/project/rockpaperscissor/</loc>
+  </url>
+  
+  <url>
+    <loc>https://likarajo.github.io/Projects/portfolio/blog/pythonuigame/</loc>
+  </url>
+  
+  <url>
+    <loc>https://likarajo.github.io/Projects/portfolio/blog/summer2019internship/</loc>
   </url>
   
   <url>
@@ -27,35 +163,11 @@
   </url>
   
   <url>
-    <loc>https://likarajo.github.io/Projects/portfolio/blog/summer2019internship/</loc>
+    <loc>https://likarajo.github.io/Projects/portfolio/project/dallascare/</loc>
   </url>
   
   <url>
-    <loc>https://likarajo.github.io/Projects/portfolio/project/airportrank/</loc>
-  </url>
-  
-  <url>
-    <loc>https://likarajo.github.io/Projects/categories/blog/</loc>
-  </url>
-  
-  <url>
-    <loc>https://likarajo.github.io/Projects/portfolio/project/breastcancerdiagnosis/</loc>
-  </url>
-  
-  <url>
-    <loc>https://likarajo.github.io/Projects/portfolio/project/brickbreaker/</loc>
-  </url>
-  
-  <url>
-    <loc>https://likarajo.github.io/Projects/portfolio/project/caranalysis/</loc>
-  </url>
-  
-  <url>
-    <loc>https://likarajo.github.io/Projects/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://likarajo.github.io/Projects/portfolio/project/chatbot/</loc>
+    <loc>https://likarajo.github.io/Projects/portfolio/blog/agriculture/</loc>
   </url>
   
   <url>
@@ -63,75 +175,15 @@
   </url>
   
   <url>
-    <loc>https://likarajo.github.io/Projects/portfolio/project/crimesclustering/</loc>
+    <loc>https://likarajo.github.io/Projects/portfolio/project/brickbreaker/</loc>
   </url>
   
   <url>
-    <loc>https://likarajo.github.io/Projects/portfolio/project/cv/</loc>
+    <loc>https://likarajo.github.io/Projects/categories/blog/</loc>
   </url>
   
   <url>
-    <loc>https://likarajo.github.io/Projects/portfolio/project/decisiontreeid3/</loc>
-  </url>
-  
-  <url>
-    <loc>https://likarajo.github.io/Projects/portfolio/project/devopscicd/</loc>
-  </url>
-  
-  <url>
-    <loc>https://likarajo.github.io/Projects/portfolio/project/dimensionalityreduction/</loc>
-  </url>
-  
-  <url>
-    <loc>https://likarajo.github.io/Projects/portfolio/project/earthquakes/</loc>
-  </url>
-  
-  <url>
-    <loc>https://likarajo.github.io/Projects/portfolio/project/ensemble/</loc>
-  </url>
-  
-  <url>
-    <loc>https://likarajo.github.io/Projects/portfolio/project/facerecognition/</loc>
-  </url>
-  
-  <url>
-    <loc>https://likarajo.github.io/Projects/portfolio/project/hightemp/</loc>
-  </url>
-  
-  <url>
-    <loc>https://likarajo.github.io/Projects/portfolio/project/housepriceprediction/</loc>
-  </url>
-  
-  <url>
-    <loc>https://likarajo.github.io/Projects/portfolio/project/kinship/</loc>
-  </url>
-  
-  <url>
-    <loc>https://likarajo.github.io/Projects/portfolio/project/moviesearch/</loc>
-  </url>
-  
-  <url>
-    <loc>https://likarajo.github.io/Projects/portfolio/project/mqreporting/</loc>
-  </url>
-  
-  <url>
-    <loc>https://likarajo.github.io/Projects/portfolio/project/mqstats/</loc>
-  </url>
-  
-  <url>
-    <loc>https://likarajo.github.io/Projects/portfolio/project/newstopic/</loc>
-  </url>
-  
-  <url>
-    <loc>https://likarajo.github.io/Projects/portfolio/project/personalwebsitev1/</loc>
-  </url>
-  
-  <url>
-    <loc>https://likarajo.github.io/Projects/portfolio/project/personalwebsitev2/</loc>
-  </url>
-  
-  <url>
-    <loc>https://likarajo.github.io/Projects/portfolio/project/personalwebsitev3/</loc>
+    <loc>https://likarajo.github.io/Projects/categories/</loc>
   </url>
   
   <url>
@@ -147,47 +199,7 @@
   </url>
   
   <url>
-    <loc>https://likarajo.github.io/Projects/portfolio/project/recommender/</loc>
-  </url>
-  
-  <url>
-    <loc>https://likarajo.github.io/Projects/portfolio/project/rockpaperscissor/</loc>
-  </url>
-  
-  <url>
-    <loc>https://likarajo.github.io/Projects/portfolio/project/sentimentofsentence/</loc>
-  </url>
-  
-  <url>
-    <loc>https://likarajo.github.io/Projects/portfolio/project/sentimentonusairline/</loc>
-  </url>
-  
-  <url>
-    <loc>https://likarajo.github.io/Projects/portfolio/project/simos/</loc>
-  </url>
-  
-  <url>
-    <loc>https://likarajo.github.io/Projects/portfolio/project/simosdemandpaging/</loc>
-  </url>
-  
-  <url>
-    <loc>https://likarajo.github.io/Projects/portfolio/project/socialnetworkanalysis/</loc>
-  </url>
-  
-  <url>
     <loc>https://likarajo.github.io/Projects/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://likarajo.github.io/Projects/portfolio/project/tetris/</loc>
-  </url>
-  
-  <url>
-    <loc>https://likarajo.github.io/Projects/portfolio/project/titanicsurvival/</loc>
-  </url>
-  
-  <url>
-    <loc>https://likarajo.github.io/Projects/portfolio/project/tweetsentiment/</loc>
   </url>
   
 </urlset>

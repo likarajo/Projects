@@ -1,7 +1,7 @@
 ---
-date: '100'
+weight: '903'
 title: 'Brick Breaker'
-image: ''
+image: 'img/portfolio/brickbreaker.png'
 github: 'https://github.com/likarajo/brickbreaker'
 external: 'https://likarajo.github.io/brickbreaker'
 tech:

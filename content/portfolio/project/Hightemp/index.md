@@ -1,5 +1,5 @@
 ---
-date: '907'
+weight: '508'
 title: 'High Temperature Anomaly'
 image: 'img/portfolio/hightemp.png'
 github: 'https://github.com/likarajo/hightemp'

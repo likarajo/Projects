@@ -1,7 +1,7 @@
 ---
-date: '700'
+weight: '201'
 title: 'CV'
-image: ''
+image: 'img/portfolio/cv.png'
 github: 'https://github.com/likarajo/cv'
 external: 'https://likarajo.github.io/cv'
 tech:

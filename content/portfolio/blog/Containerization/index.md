@@ -1,7 +1,7 @@
 ---
-date: '515'
+weight: '705'
 title: '[BLOG] Containerization'
-image: ''
+image: 'img/portfolio/containerization.png'
 github: ''
 external: 'https://likarajoblogs.wordpress.com/2018/10/02/creating-and-publishing-docker-image-for-a-python-app/'
 tech:

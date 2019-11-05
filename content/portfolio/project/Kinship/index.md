@@ -1,5 +1,5 @@
 ---
-date: '606'
+weight: '202'
 title: 'Kinship'
 image: 'img/portfolio/kinship.png'
 github: 'https://github.com/likarajo/kinship'

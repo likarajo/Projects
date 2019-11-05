@@ -1,7 +1,7 @@
 ---
-date: '202'
+weight: '609'
 title: 'Simulated Operating System with Demand Paging'
-image: ''
+image: 'img/portfolio/os.png'
 github: 'https://github.com/likarajo/simOS_demandPaging'
 external: ''
 tech:

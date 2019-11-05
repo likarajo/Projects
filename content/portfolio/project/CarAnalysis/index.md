@@ -1,7 +1,7 @@
 ---
-date: '705'
+weight: '504'
 title: 'Car Analysis'
-image: ''
+image: 'img/portfolio/car.png'
 github: 'https://github.com/likarajo/car_analysis'
 external: ''
 tech:

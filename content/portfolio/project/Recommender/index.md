@@ -1,7 +1,7 @@
 ---
-date: '801'
+weight: '509'
 title: 'Recommender System'
-image: ''
+image: 'img/portfolio/cf.png'
 github: 'https://github.com/likarajo/recommender'
 external: ''
 tech:

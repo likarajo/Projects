@@ -1,5 +1,5 @@
 ---
-date: '1102'
+weight: '102'
 title: 'House Price Prediction'
 cover: 'img/portfolio/hpp.png'
 github: 'https://github.com/likarajo/house_price'

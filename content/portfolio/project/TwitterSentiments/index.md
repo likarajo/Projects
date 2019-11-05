@@ -1,5 +1,5 @@
 ---
-date: '4'
+weight: '101'
 title: 'Tweet Sentiment'
 cover: 'img/portfolio/tweetSenti.png'
 github: 'https://github.com/likarajo/twitter_sentiments'

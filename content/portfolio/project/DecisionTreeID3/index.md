@@ -1,7 +1,7 @@
 ---
-date: '401'
+weight: '603'
 title: 'Decison Tree ID3'
-image: ''
+image: 'img/portfolio/dt.png'
 github: 'https://github.com/likarajo/decision_tree'
 external: ''
 tech:

@@ -1,7 +1,7 @@
 ---
-date: '102'
+weight: '801'
 title: 'Rock Paper Scissor game'
-image: ''
+image: 'img/portfolio/rps.png'
 github: 'https://github.com/likarajo/rock-paper-scissor'
 external: 'https://likarajo.github.io/rock-paper-scissor/'
 tech:

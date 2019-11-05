@@ -1,7 +1,7 @@
 ---
-date: '402'
+weight: '602'
 title: 'Ensemble Methods'
-cover: ''
+image: 'img/portfolio/ensemble.png'
 github: 'https://github.com/likarajo/decision_tree_ensemble'
 external: ''
 tech:

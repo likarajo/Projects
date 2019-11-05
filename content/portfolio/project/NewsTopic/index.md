@@ -1,7 +1,7 @@
 ---
-date: '804'
+weight: '401'
 title: 'News Topic Modelling'
-image: ''
+image: 'img/portfolio/topic.jpg'
 github: 'https://github.com/likarajo/topics'
 external: ''
 tech:

@@ -1,7 +1,7 @@
 ---
-date: '302'
+weight: '605'
 title: 'Titanic Survival'
-image: ''
+image: 'img/portfolio/titanic.png'
 github: 'https://github.com/likarajo/titanic_survival'
 external: ''
 tech:
