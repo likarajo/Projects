@@ -5,14 +5,28 @@
             {{ range .Data.Pages }}
             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
                 <div class="box-masonry">
-                    {{ if eq .Params.external "" }} {{ .Scratch.Set "link" .Params.github }} {{ else }} {{ .Scratch.Set "link" .Params.external }} {{ end }} {{ if and (isset .Params "image") .Params.image }}
-                    <a href="{{ .Scratch.Get " link " }}" target="_blank" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
-                        <img src="{{.Params.image | absURL}}" alt="" class="img-responsive">
-                    </a>
-                    {{ end }} {{ if and (isset .Params "cover") .Params.cover }}
-                    <a href="{{ .Scratch.Get " link " }}" target="_blank" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
-                        <img src="{{.Params.cover | absURL}}" alt="" class="img-responsive">
-                    </a>
+                    {{ if and (isset .Params "external") .Params.external }}
+                        {{ if and (isset .Params "image") .Params.image }}
+                        <a href="{{ .Params.external }}" target="_blank" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
+                            <img src="{{.Params.image | absURL}}" alt="" class="img-responsive">
+                        </a>
+                        {{ end }} 
+                        {{ if and (isset .Params "cover") .Params.cover }}
+                        <a href="{{ .Params.external }}" target="_blank" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
+                            <img src="{{.Params.cover | absURL}}" alt="" class="img-responsive">
+                        </a>
+                        {{ end }}
+                    {{ else }}
+                        {{ if and (isset .Params "image") .Params.image }}
+                        <a href="{{ .Params.github }}" target="_blank" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
+                            <img src="{{.Params.image | absURL}}" alt="" class="img-responsive">
+                        </a>
+                        {{ end }} 
+                        {{ if and (isset .Params "cover") .Params.cover }}
+                        <a href="{{ .Params.github }}" target="_blank" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
+                            <img src="{{.Params.cover | absURL}}" alt="" class="img-responsive">
+                        </a>
+                        {{ end }}
                     {{ end }}
                     <div class="box-masonry-text">
                         <h4>{{ .Title }}</h4>
@@ -20,9 +34,11 @@
                             <p>
                                 {{ if .Description }} {{ .Description }} {{ else }} {{ .Summary }} {{ end }}
                             </p>
-                            <a href="{{ .Scratch.Get " link " }}" target="_blank">
-                                <i class="fa fa-external-link-square"> more info</i>
-                            </a>
+                            {{ if and (isset .Params "github") .Params.github }}
+                                <a href="{{ .Params.github }}" target="_blank">
+                                    <i class="fa fa-external-link-square"> more info</i>
+                                </a>
+                            {{ end }}
                         </div>
                     </div>
                 </div>
