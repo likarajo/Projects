@@ -62,6 +62,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   url = "portfolio/"
   home = true
   icon = "fa fa-home"
+  
+  [[params.navlinks]]
+  name = "Download printable format"
+  url = "https://github.com/likarajo/cv/raw/master/rajarshi_portfolio.pdf"
+  icon = "fa fa-download"
 
   [params.social]
   email         = "likarajo@gmail.com"
