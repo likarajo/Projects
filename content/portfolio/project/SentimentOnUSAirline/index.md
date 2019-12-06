@@ -2,7 +2,7 @@
 weight: '505'
 title: 'Sentiment on US Airline'
 image: 'img/portfolio/sentiment.jpg'
-github: 'https://github.com/likarajo/https://github.com/likarajo/usairline_sentiment'
+github: 'https://github.com/likarajo/usairline_sentiment'
 external: ''
 tech:
   - Scala

@@ -3,7 +3,7 @@ weight: '506'
 title: 'Sentiment of a sentence'
 image: 'img/portfolio/sentiment.jpg'
 github: 'https://github.com/likarajo/sentence_sentiment'
-external: ' https://likarajo.github.io/sentence_sentiment/'
+external: ''
 tech:
   - Scala
   - TF-IDF
