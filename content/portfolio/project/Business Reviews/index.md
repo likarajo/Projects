@@ -1,7 +1,7 @@
 ---
 weight: '113'
 title: 'Business Reviews'
-image: 'img/portfolio/business_reviews.jpg'
+image: 'img/portfolio/business_reviews.png'
 github: 'https://github.com/likarajo/business_reviews'
 external: ''
 tech:
