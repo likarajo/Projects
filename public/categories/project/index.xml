@@ -57,6 +57,78 @@ predict the final price of a house based on the features.&lt;/p&gt;</description
     </item>
     
     <item>
+      <title>Customer Churn</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/customer-churn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/customer-churn/</guid>
+      <description>Classification model to predict whether or not the customer is likely to leave the bank based on various customer characteristics using PyTorch.</description>
+    </item>
+    
+    <item>
+      <title>Passengers Count</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/passengers-count/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/passengers-count/</guid>
+      <description>Time Series Prediction to predict the count of traveling passengers based on historical data using Long Short Term Memory (LSTM) Neural Network</description>
+    </item>
+    
+    <item>
+      <title>Car Evaluation</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/car-evaluation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/car-evaluation/</guid>
+      <description>Create a deep learning classification model to evaluate a car based on its characteristics with TensorFlow2.0</description>
+    </item>
+    
+    <item>
+      <title>Petrol Consumption</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/petrol_consumption/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/petrol_consumption/</guid>
+      <description>Create a deep learning regression model to predict petrol consumption based on tax, income, highway rides and driver license holding with TensorFlow2.0</description>
+    </item>
+    
+    <item>
+      <title>Language Translation</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/language-translation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/language-translation/</guid>
+      <description>Deep Learning LSTM language translation model built with Keras using Neural Machine Translation with seq2seq encoder-decoder architecture.</description>
+    </item>
+    
+    <item>
+      <title>Text Generation</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/text-generation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/text-generation/</guid>
+      <description>Deep Learning model to predict the next word based on a sequence of input words built with Keras using LSTM Neural Network</description>
+    </item>
+    
+    <item>
+      <title>Comment Toxicity</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/comment-toxicity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/comment-toxicity/</guid>
+      <description>A Multi-label classification model to predict the probability of each type of toxicity for comments using deep learning with Keras.</description>
+    </item>
+    
+    <item>
+      <title>Business Reviews</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/business-reviews/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/business-reviews/</guid>
+      <description>Multi-Input Classification Model to classify user reviews regarding different businesses, built using deep learning with Keras.</description>
+    </item>
+    
+    <item>
       <title>CV</title>
       <link>https://likarajo.github.io/Projects/portfolio/project/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -136,7 +208,7 @@ The most famous ones are Bag of Words, TF-IDF.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://likarajo.github.io/Projects/portfolio/project/socialnetworkanalysis/</guid>
-      <description>&lt;p&gt;Created a social network of users liking each other&amp;rsquo;s posts in a graph structure.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Created a social network of users liking each other&#39;s posts in a graph structure.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -226,7 +298,7 @@ The most famous ones are Bag of Words, TF-IDF.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://likarajo.github.io/Projects/portfolio/project/decisiontreeid3/</guid>
-      <description>Self-implementation of Decision Tree ID3 algorithm and comparing it with Scikit Learn implementation using MONK&amp;rsquo;s Problem and Tic-Tac-Toe Endgame Data Set.</description>
+      <description>Self-implementation of Decision Tree ID3 algorithm and comparing it with Scikit Learn implementation using MONK&#39;s Problem and Tic-Tac-Toe Endgame Data Set.</description>
     </item>
     
     <item>
@@ -244,8 +316,7 @@ The most famous ones are Bag of Words, TF-IDF.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://likarajo.github.io/Projects/portfolio/project/titanicsurvival/</guid>
-      <description>Titanic survival prediction with Decision Tree classifier.
-Ref: Kaggle Competetion</description>
+      <description>Titanic survival prediction with Decision Tree classifier.Ref: Kaggle Competetion</description>
     </item>
     
     <item>
@@ -299,8 +370,7 @@ Ref: Kaggle Competetion</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://likarajo.github.io/Projects/portfolio/project/devopscicd/</guid>
-      <description>Continuous Integration and continuous deployment using Jenkins
-Blog</description>
+      <description>Continuous Integration and continuous deployment using JenkinsBlog</description>
     </item>
     
     <item>
