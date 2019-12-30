@@ -26,7 +26,7 @@
       
       <guid>https://likarajo.github.io/Projects/portfolio/blog/cicd/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/pulse/devops-continuous-integration-deployment-using-chattopadhyay/&#34;&gt;LinkedIn article&lt;/a&gt;
-&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;
 This is a guide to learn the use of Jenkins for Continuous Integration
 and Continuous Deployment of projects.&lt;/p&gt;</description>
     </item>
@@ -37,7 +37,7 @@ and Continuous Deployment of projects.&lt;/p&gt;</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://likarajo.github.io/Projects/portfolio/blog/pythonuigame/</guid>
-      <description>Beginner&amp;rsquo;s guide to UI development using basics of tkinter</description>
+      <description>Beginner&#39;s guide to UI development using basics of tkinter</description>
     </item>
     
     <item>
