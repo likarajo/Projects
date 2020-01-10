@@ -129,6 +129,87 @@ predict the final price of a house based on the features.&lt;/p&gt;</description
     </item>
     
     <item>
+      <title>Customer Targeting</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/customertargeting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/customertargeting/</guid>
+      <description>Binary Classification model to predict whether a customer will be interested on a particular advertisement based on customer Ad-Clicks data.</description>
+    </item>
+    
+    <item>
+      <title>Black Friday Shopping</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/blackfridayshopping/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/blackfridayshopping/</guid>
+      <description>Regression model to predict the amount of money that a person is likely to spend on Black Friday based on features like gender, occupation, age etc. and exploring the trends.</description>
+    </item>
+    
+    <item>
+      <title>Text Summarization</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/textsummarization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/textsummarization/</guid>
+      <description>Automatic text summarization with simple NLP-based technique to summarize textual data from Wikipedia articles.</description>
+    </item>
+    
+    <item>
+      <title>Wine Quality</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/winequality/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/winequality/</guid>
+      <description>Classification model to predict the quality of wine based on different attributes.</description>
+    </item>
+    
+    <item>
+      <title>Shopping Trends</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/shoppingtrends/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/shoppingtrends/</guid>
+      <description>Clustering to segment customers into different groups based on their shopping trends using Hierarchical Agglomerative Clustering.</description>
+    </item>
+    
+    <item>
+      <title>Spam SMS</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/spamsms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/spamsms/</guid>
+      <description>Classification to detect Spam SMS using Naive Bayes&amp;rsquo; Classifier.</description>
+    </item>
+    
+    <item>
+      <title>Glass Type</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/glasstype/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/glasstype/</guid>
+      <description>Classification to find the type of glass based on their oxide content using Random Forest Classifier after Dimensionality Reduction with Principal Component Analysis and Linear Discriminant Analysis.</description>
+    </item>
+    
+    <item>
+      <title>Currency Note Autheticity</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/currencynoteauthenticity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/currencynoteauthenticity/</guid>
+      <description>Classification to predict if a bank currency note is authentic based on its image features using multiple classifiers.</description>
+    </item>
+    
+    <item>
+      <title>Weather Prediction</title>
+      <link>https://likarajo.github.io/Projects/portfolio/project/weatherprediction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://likarajo.github.io/Projects/portfolio/project/weatherprediction/</guid>
+      <description>Regression to predict temperature based on different weather aspects.</description>
+    </item>
+    
+    <item>
       <title>CV</title>
       <link>https://likarajo.github.io/Projects/portfolio/project/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
